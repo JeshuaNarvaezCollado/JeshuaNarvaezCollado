@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeshua Narvaez Collado</h1>
+<h1 align="center">Hi 👋, I'm Jeshua! </h1>
 <h3 align="center">A passionate frontend developer from America!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeshuanarvaezcollado" alt="jeshuanarvaezcollado" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Jrnc826@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/crazy/Dropbox/My%20PC%20(LAPTOP-89DSQ2QC)/Downloads/Jeshua_R.%20Narvaez%20Collado_Resume_13-09-2023-14-49-57.pdf](file:///C:/Users/crazy/Dropbox/My%20PC%20(LAPTOP-89DSQ2QC)/Downloads/Jeshua_R.%20Narvaez%20Collado_Resume_13-09-2023-14-49-57.pdf)
+- 📄 Know about my experiences (file:///C:/Users/crazy/Dropbox/My%20PC%20(LAPTOP-89DSQ2QC)/Downloads/Jeshua_R.%20Narvaez%20Collado_Resume_13-09-2023-14-49-57.pdf)
 
 - ⚡ Other Interests **I love animals, Gaming, and like being creative!**
 
